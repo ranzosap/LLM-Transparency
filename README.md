@@ -9,8 +9,6 @@ Despite growing discourse on open-source artificial intelligence (AI), a critica
 
 Awais, M., Naseer, M., Khan, S., Anwer, R. M., Cholakkal, H., Shah, M., Yang, M.-H., & Khan, F. S. (2025). Foundation models defining a new era in vision: A survey and outlook. IEEE Transactions on Pattern Analysis and Machine Intelligence. IEEE.
 
-Raza, S., Qureshi, R., Zahid, A., Fioresi, J., Sadak, F., Saeed, M., Sapkota, R., Jain, A., Zafar, A., Hassan, M. U., et al. (2025). Who is responsible? The data, models, users or regulations? Responsible generative AI for a sustainable future. Authorea Preprints. Authorea.
-
 Verdecchia, R., Sallou, J., & Cruz, L. (2023). A systematic review of Green AI. Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery, 13(4), e1507. Wiley Online Library.
 
 Shahriari, K., & Shahriari, M. (2017). IEEE standard review—Ethically aligned design: A vision for prioritizing human wellbeing with artificial intelligence and autonomous systems. In 2017 IEEE Canada International Humanitarian Technology Conference (IHTC) (pp. 197–201). IEEE.
@@ -31,7 +29,7 @@ Carbon Credits. (2023). How big is the CO2 footprint of AI models? ChatGPT's emi
 
 Guha, N., Lawrence, C. M., Gailmard, L. A., Rodolfa, K. T., Surani, F., Bommasani, R., Raji, I. D., Cuéllar, M.-F., Honigsberg, C., Liang, P., et al. (2024). AI regulation has its own alignment problem: The technical and institutional feasibility of disclosure, registration, licensing, and auditing. Geo. Wash. L. Rev., 92, 1473. HeinOnline.
 
-Geng, X., & Liu, H. (2023, May). OpenLLaMA: An open reproduction of LLaMA [Software].
+Geng, X., & Liu, H. (2023, May). OpenLLaMA: An open reproduction of LLaMA.
 
 xAI. (2024). Open release of Grok-1. https://x.ai/blog/grok-os (Accessed: 2025-02-09)
 
