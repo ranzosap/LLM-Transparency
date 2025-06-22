@@ -4,11 +4,11 @@
 Despite growing discourse on open-source artificial intelligence (AI), a critical gap remains in evaluating the transparency and accessibility of state-of-the-art (SoTA) large language models (LLMs). Recent initiatives such as the Open Source Initiative (OSI) definition of open-source software offer a starting point, yet they inadequately address the unique complexities of openness in modern AI systems. Increasing concern around "open-washing" where models claim openness while withholding crucial details undermines reproducibility, fairness, and downstream adaptability. In this study, we present a comprehensive analysis of 121 SoTA LLMs developed between 2019 and 2025, including models such as ChatGPT-4, DeepSeek-R1, LLaMA 2, and Gemini 2.5 Pro. We introduce two standardized metrics: the Composite Transparency Score (CTS), which evaluates openness across seven dimensions (code, weights, data, documentation, license, carbon disclosures, and benchmark reproducibility); and the Training Data Disclosure Index (TDDI), which assesses the specificity and transparency of training dataset reporting. Our results reveal a widening transparency deficit among recent proprietary models, particularly those released in 2025, which often omit key disclosures while reporting high benchmark scores. Conversely, select models such as BLOOM, DeepSeek-R1, and Qwen 3 maintain high transparency standards. We further propose a badge-based labeling framework and advocate for alignment with global responsible AI frameworks, including the EU Ethics Guidelines, OECD Principles, and IEEE Ethically Aligned Design. This study offers the first large-scale CTS/TDDI evaluation and establishes a foundation for promoting reproducible, sustainable, and ethically accountable LLM development in the generative AI era.
 
 # Summary 
-📘 This repository supports our study of 121 leading LLMs released between 2019 and 2025—including ChatGPT-4, Gemini 2.5 Pro, DeepSeek-R1, LLaMA 2, and BLOOM. The project introduces two critical benchmarking metrics:
+📘 This repository supports our study of 121 leading LLMs released between 2019 and 2025 including ChatGPT-4, Gemini 2.5 Pro, DeepSeek-R1, LLaMA 2, and BLOOM. The project introduces two critical benchmarking metrics:
 
 🧭 Composite Transparency Score (CTS): A 7-dimension normalized index (0.0–1.0) evaluating openness across code availability, model weights, training data disclosure, licensing, documentation, emissions reporting, and benchmark reproducibility.
 
-📊 Training Data Disclosure Index (TDDI): A fine-grained, 5-point normalized metric that captures how transparently a model’s training data pipeline is disclosed—including data source, preprocessing, licensing, language-domain diversity, and synthetic vs. real data usage.
+📊 Training Data Disclosure Index (TDDI): A fine-grained, 5-point normalized metric that captures how transparently a model’s training data pipeline is disclosed including data source, preprocessing, licensing, language-domain diversity, and synthetic vs. real data usage.
 # Highlights 🚀 
 
 📅 Longitudinal analysis of transparency trends across model generations (2019–2025)
@@ -20,18 +20,18 @@ Despite growing discourse on open-source artificial intelligence (AI), a critica
 🔖 Badge-based labeling framework for reproducible, transparent AI
 
 🌐 Alignment with global AI ethics frameworks (EU, OECD, IEEE)
-# Contents
-📂 
-/data: CTS and TDDI scoring spreadsheet
 
-/figures: Visualizations from the paper (radar charts, trend plots, transparency gaps)
+# Contents📂
+ 
+data: CTS and TDDI scoring spreadsheet
 
-/paper: PDF and citation
+figures: Visualizations from the paper (radar charts, trend plots, transparency gaps)
 
-/code: Scripts used for evaluation scoring and figure generation
+paper: PDF and citation
+
+code: Scripts used for evaluation scoring and figure generation
 
 # Let’s build a future of accountable, reproducible, and open AI. 💡
-
 
 # List of References 
 
@@ -39,7 +39,7 @@ Awais, M., Naseer, M., Khan, S., Anwer, R. M., Cholakkal, H., Shah, M., Yang, M.
 
 Verdecchia, R., Sallou, J., & Cruz, L. (2023). A systematic review of Green AI. Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery, 13(4), e1507. Wiley Online Library.
 
-Shahriari, K., & Shahriari, M. (2017). IEEE standard review—Ethically aligned design: A vision for prioritizing human wellbeing with artificial intelligence and autonomous systems. In 2017 IEEE Canada International Humanitarian Technology Conference (IHTC) (pp. 197–201). IEEE.
+Shahriari, K., & Shahriari, M. (2017). IEEE standard review Ethically aligned design: A vision for prioritizing human wellbeing with artificial intelligence and autonomous systems. In 2017 IEEE Canada International Humanitarian Technology Conference (IHTC) (pp. 197–201). IEEE.
 
 Organisation for Economic Co-operation and Development. (2024). AI principles. https://www.oecd.org/en/topics/sub-issues/ai-principles.html (Adopted in 2019, updated in 2024. Accessed on October 1, 2024)
 
